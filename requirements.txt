@@ -1,0 +1,16 @@
+# Core
+torch>=2.0
+torchvision>=0.15
+numpy>=1.24
+pandas>=1.5
+matplotlib>=3.7
+scikit-learn>=1.2
+jupyterlab>=4.0
+ipywidgets>=8.0
+
+# Optional (uncomment if needed)
+# torchaudio>=2.0
+# transformers>=4.30
+# sentence-transformers>=2.2
+# tensorboard>=2.13
+# nltk>=3.8
