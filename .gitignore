@@ -30,6 +30,7 @@ Thumbs.db
 desktop.ini
 
 # Data (large files)
+data/MNIST/
 data/raw/*.csv
 data/raw/*.zip
 data/raw/*.tar.gz
